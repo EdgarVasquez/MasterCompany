@@ -6,5 +6,6 @@ En esta rama se encontrara la api, la cual esta desarrollada en ASP .NET CORE AP
 
 - Los servicios a su vez estan compuestos por una interfaz y una clase que hereda de esta, donde se colocan todos los metodos que se usaran en el controlador.
 En el program.cs podemos apreciar que las politicas CORS permiten acceso a cualquiera que se intente conectar al mismo, ya que no se especifico si deben haber retricciones.
-- La api se desplego en un app service de azure, con la intencion de facilitar su consumo en la parte de angular, al no tener que subir ambas aplicaciones, aqui esta el link del swagger: https://mastercompanyapi.azurewebsites.net/swagger/index.html
+- La api se desplego en un app service de azure, con la intencion de facilitar su consumo en la parte de angular, al no tener que subir ambas aplicaciones, aqui esta el link del swagger: https://mastercompanyapi.azurewebsites.net/swagger/index.html.
+- Uno de los registros poseia una fecha invalida " 2014-05-901 ", para esto se valido la misma devolviendo el siguiente mensaje: Fecha Invalida 2014-05-901; ya que no se especificaba que hacer en este caso.
 
