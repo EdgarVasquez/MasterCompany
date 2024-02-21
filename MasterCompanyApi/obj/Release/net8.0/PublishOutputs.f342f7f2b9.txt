@@ -1,0 +1,13 @@
+C:\Users\hmoed\source\repos\MasterCompanyApi\MasterCompanyApi\obj\Release\net8.0\PubTmp\Out\Models\Data.txt
+C:\Users\hmoed\source\repos\MasterCompanyApi\MasterCompanyApi\obj\Release\net8.0\PubTmp\Out\MasterCompanyApi.exe
+C:\Users\hmoed\source\repos\MasterCompanyApi\MasterCompanyApi\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\hmoed\source\repos\MasterCompanyApi\MasterCompanyApi\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\hmoed\source\repos\MasterCompanyApi\MasterCompanyApi\obj\Release\net8.0\PubTmp\Out\MasterCompanyApi.dll
+C:\Users\hmoed\source\repos\MasterCompanyApi\MasterCompanyApi\obj\Release\net8.0\PubTmp\Out\MasterCompanyApi.deps.json
+C:\Users\hmoed\source\repos\MasterCompanyApi\MasterCompanyApi\obj\Release\net8.0\PubTmp\Out\MasterCompanyApi.runtimeconfig.json
+C:\Users\hmoed\source\repos\MasterCompanyApi\MasterCompanyApi\obj\Release\net8.0\PubTmp\Out\MasterCompanyApi.pdb
+C:\Users\hmoed\source\repos\MasterCompanyApi\MasterCompanyApi\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\hmoed\source\repos\MasterCompanyApi\MasterCompanyApi\obj\Release\net8.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\hmoed\source\repos\MasterCompanyApi\MasterCompanyApi\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hmoed\source\repos\MasterCompanyApi\MasterCompanyApi\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hmoed\source\repos\MasterCompanyApi\MasterCompanyApi\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
