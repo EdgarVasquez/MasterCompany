@@ -1,0 +1,59 @@
+<style>
+  .employees-list {
+    margin: 20px;
+    text-align: center;
+  }
+
+  .employees-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+  .employees-table th,
+  .employees-table td {
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: left;
+  }
+
+  .employees-table th {
+    background-color: #f2f2f2;
+  }
+
+  .employee-row:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+
+  .salary {
+    text-align: right;
+  }
+</style>
+
+<div class="employees-list">
+  <h2 style="margin-bottom: 20px;">Lista de Empleados</h2>
+
+  <table class="employees-table">
+    <thead>
+      <tr>
+        <th>Nombre</th>
+        <th>Apellido</th>
+        <th>Documento</th>
+        <th>Salario</th>
+        <th>Género</th>
+        <th>Puesto</th>
+        <th>Fecha de Inicio</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let employee of employees" class="employee-row">
+        <td>{{ employee.name }}</td>
+        <td>{{ employee.lastName }}</td>
+        <td>{{ employee.document }}</td>
+        <td class="salary">{{ formatSalary(employee.salary) }}</td>
+        <td>{{ employee.gender }}</td>
+        <td>{{ employee.position }}</td>
+        <td>{{ employee.startDate }}</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
