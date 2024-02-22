@@ -1,0 +1,29 @@
+.employees-list {
+    margin: 20px;
+    text-align: center;
+  }
+  
+  .employees-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .employees-table th,
+  .employees-table td {
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: left;
+  }
+  
+  .employees-table th {
+    background-color: #f2f2f2;
+  }
+  
+  .employee-row:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  .salary {
+    text-align: right;
+  }
+  
